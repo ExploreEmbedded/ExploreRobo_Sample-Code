@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Atmel Studio Solution File, Format Version 11.00
+Project("{54F91283-7BC4-4236-8FF9-10F437C3AD48}") = "Obstacle avoidance_Robo", "Obstacle avoidance_Robo\Obstacle avoidance_Robo.cproj", "{D1C62962-06F0-44C0-B198-CD4E5277D43D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|AVR = Debug|AVR
+		Release|AVR = Release|AVR
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D1C62962-06F0-44C0-B198-CD4E5277D43D}.Debug|AVR.ActiveCfg = Debug|AVR
+		{D1C62962-06F0-44C0-B198-CD4E5277D43D}.Debug|AVR.Build.0 = Debug|AVR
+		{D1C62962-06F0-44C0-B198-CD4E5277D43D}.Release|AVR.ActiveCfg = Release|AVR
+		{D1C62962-06F0-44C0-B198-CD4E5277D43D}.Release|AVR.Build.0 = Release|AVR
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

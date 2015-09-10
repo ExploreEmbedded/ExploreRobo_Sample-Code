@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Atmel Studio Solution File, Format Version 11.00
+Project("{54F91283-7BC4-4236-8FF9-10F437C3AD48}") = "DTMF Controlled_Robo", "DTMF Controlled_Robo\DTMF Controlled_Robo.cproj", "{2F6A1B0F-A158-4B50-8E84-556BA7C60921}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|AVR = Debug|AVR
+		Release|AVR = Release|AVR
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2F6A1B0F-A158-4B50-8E84-556BA7C60921}.Debug|AVR.ActiveCfg = Debug|AVR
+		{2F6A1B0F-A158-4B50-8E84-556BA7C60921}.Debug|AVR.Build.0 = Debug|AVR
+		{2F6A1B0F-A158-4B50-8E84-556BA7C60921}.Release|AVR.ActiveCfg = Release|AVR
+		{2F6A1B0F-A158-4B50-8E84-556BA7C60921}.Release|AVR.Build.0 = Release|AVR
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
